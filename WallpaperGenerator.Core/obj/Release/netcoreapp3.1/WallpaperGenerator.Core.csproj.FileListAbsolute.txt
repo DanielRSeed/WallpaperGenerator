@@ -1,0 +1,9 @@
+C:\Users\Weed\source\repos\WallpaperGenerator\WallpaperGenerator.Core\bin\Release\netcoreapp3.1\WallpaperGenerator.Core.deps.json
+C:\Users\Weed\source\repos\WallpaperGenerator\WallpaperGenerator.Core\bin\Release\netcoreapp3.1\WallpaperGenerator.Core.dll
+C:\Users\Weed\source\repos\WallpaperGenerator\WallpaperGenerator.Core\bin\Release\netcoreapp3.1\WallpaperGenerator.Core.pdb
+C:\Users\Weed\source\repos\WallpaperGenerator\WallpaperGenerator.Core\obj\Release\netcoreapp3.1\WallpaperGenerator.Core.csprojAssemblyReference.cache
+C:\Users\Weed\source\repos\WallpaperGenerator\WallpaperGenerator.Core\obj\Release\netcoreapp3.1\WallpaperGenerator.Core.AssemblyInfoInputs.cache
+C:\Users\Weed\source\repos\WallpaperGenerator\WallpaperGenerator.Core\obj\Release\netcoreapp3.1\WallpaperGenerator.Core.AssemblyInfo.cs
+C:\Users\Weed\source\repos\WallpaperGenerator\WallpaperGenerator.Core\obj\Release\netcoreapp3.1\WallpaperGenerator.Core.csproj.CoreCompileInputs.cache
+C:\Users\Weed\source\repos\WallpaperGenerator\WallpaperGenerator.Core\obj\Release\netcoreapp3.1\WallpaperGenerator.Core.dll
+C:\Users\Weed\source\repos\WallpaperGenerator\WallpaperGenerator.Core\obj\Release\netcoreapp3.1\WallpaperGenerator.Core.pdb

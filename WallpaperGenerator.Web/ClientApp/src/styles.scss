@@ -1,0 +1,24 @@
+/* override bootstrap colour defaults */
+$body-bg: #1b1f2b;
+$body-color: #e8e9ee;
+
+$sizingSteps: ( 25, 50, 75, 100);
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.bg-lighter-2 {
+    background-color: lighten($body-bg, 2%);
+}
+
+@each $step in $sizingSteps {
+    .h-#{$step}px {
+        height: #{$step}px;
+    }
+}
+
+
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/scss/bootstrap";
